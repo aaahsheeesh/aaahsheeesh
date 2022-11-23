@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaahsheeesh" alt="aaahsheeesh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aaahsheeesh" target="blank"><img src="https://img.shields.io/twitter/follow/aaasheeesh?logo=twitter&style=for-the-badge" alt="aaasheeesh" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/aaahsheeesh" target="blank"><img src="https://img.shields.io/twitter/follow/aaasheeesh?logo=twitter&style=for-the-badge" alt="aaasheeesh" /></a> </p> -->
 
 - 🌱 I’m currently learning **DevOps**
 
