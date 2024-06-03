@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/aaahsheeesh" target="blank"><img src="https://img.shields.io/twitter/follow/aaasheeesh?logo=twitter&style=for-the-badge" alt="aaasheeesh" /></a> </p> -->
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently working as **DevOps Engineer**
 
 - 💬 Ask me about **SIH, Azure, Hackathons, Tech, Start-ups**
 
